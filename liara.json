@@ -1,6 +1,5 @@
 {
-    "platform": "static",
-    "app": "investore-a",
-    "port": 8000,
-    "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+    "platform": "node",
+    "app": "investore-admin",
+    "port": 9000
 }
